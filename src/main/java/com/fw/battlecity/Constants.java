@@ -7,4 +7,5 @@ public interface Constants {
   Integer GUI_HEIGHT = 480;
   String a = "a";
   String b = "b";
+  String c = "c";
 }
