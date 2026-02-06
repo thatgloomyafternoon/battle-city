@@ -8,4 +8,5 @@ public interface Constants {
   String a = "a";
   String b = "b";
   String c = "c";
+  String d = "d";
 }
