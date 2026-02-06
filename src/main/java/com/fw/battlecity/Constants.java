@@ -12,4 +12,5 @@ public interface Constants {
   String e = "e";
   String f = "f";
   String g = "g";
+  String h = "h";
 }
