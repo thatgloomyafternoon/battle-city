@@ -10,5 +10,4 @@ public interface Constants {
   String c = "c";
   String d = "d";
   String e = "e";
-  String f = "f";
 }
